@@ -1,0 +1,4 @@
+{
+    "appService.deploySubpath": "",
+    "appService.defaultWebAppToDeploy": "/subscriptions/301849e3-dc98-4935-bae9-35b5d22ab2d0/resourceGroups/yili-express-44/providers/Microsoft.Web/sites/yili-express-44"
+}
